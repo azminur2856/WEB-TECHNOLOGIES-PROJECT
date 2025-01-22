@@ -1,0 +1,82 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h3 {
+  font-size: 24px;
+  color: #0056b3;
+  text-align: center;
+  margin: 20px 0;
+}
+
+#feedbackHelpRequest {
+  width: 85%;
+  margin: 20px auto;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+#feedbackHelpRequest td {
+  padding: 10px;
+  font-size: 14px;
+  vertical-align: top;
+}
+
+#feedbackHelpRequest label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+#feedbackHelpRequest p {
+  margin: 10px 0;
+  font-size: 14px;
+  line-height: 1.5;
+  color: #555;
+}
+
+#feedbackHelpRequest textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  resize: none;
+  box-sizing: border-box;
+}
+
+.jsError {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.jsError ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  color: red;
+}
+
+#feedbackHelpRequest input[type="submit"] {
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 4px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+#feedbackHelpRequest input[type="submit"]:hover {
+  background-color: #004494;
+}

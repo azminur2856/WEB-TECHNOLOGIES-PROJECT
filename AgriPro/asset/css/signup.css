@@ -1,0 +1,135 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+h1 {
+  font-size: 32px;
+  color: #0056b3;
+  text-align: center;
+  margin: 20px 0;
+}
+
+.mainDiv {
+  width: 40%;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: whitesmoke;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+.mainDiv td {
+  font-size: 16px;
+}
+
+.mainDiv input[type="text"],
+.mainDiv input[type="email"],
+.mainDiv input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+#ff {
+  display: flex;
+  align-items: center;
+}
+
+#phone {
+  margin-left: 5px;
+}
+
+.mainDiv input[type="radio"] {
+  width: auto;
+  margin-right: 5px;
+}
+
+.mainDiv input[type="date"] {
+  padding: 5px;
+  border: 1px solid #888;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.mainDiv input[type="file"] {
+  padding: 3px;
+  border: 1px solid #ddd;
+  background-color: white;
+  border-radius: 5px;
+  box-sizing: border-box;
+}
+
+.mainDiv input[type="checkbox"] {
+  width: auto;
+  margin-right: 5px;
+}
+
+.mainDiv input:hover {
+  border-color: #007bff;
+  outline: none;
+}
+
+.mainDiv input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+label {
+  font-size: 16px;
+  color: black;
+}
+
+.mainDiv input[type="submit"] {
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+}
+
+.mainDiv input[type="submit"]:hover {
+  background-color: #004494;
+}
+
+.mainDiv a {
+  color: #0056b3;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.mainDiv a:hover {
+  text-decoration: underline;
+}
+
+#errorTD {
+  font-size: 15px;
+  color: red;
+}
+
+#jsError {
+  width: 25%;
+  height: 50%;
+  /* top: 175px; */
+  top: 200px;
+  left: 10px;
+  /* margin: 20px auto; */
+  /* background-color: #ffe6e6;
+  border: 1px solid #ff9999;
+  border-radius: 8px;
+  padding: 10px;
+  color: #cc0000; */
+  position: absolute;
+  /* display: none; */
+}

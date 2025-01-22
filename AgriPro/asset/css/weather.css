@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+h2 {
+  text-align: center;
+  color: #0056b3;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+#weather {
+  width: 80%;
+  margin: 0 auto;
+  border-collapse: collapse;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  margin-bottom: 50px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+
+#weather th {
+  background-color: #0056b3;
+  color: white;
+  padding: 12px;
+  font-size: 16px;
+  text-align: center;
+}
+
+#weather td {
+  text-align: center;
+  padding: 12px;
+  font-size: 14px;
+  border-bottom: 1px solid #ddd;
+}
+
+#weather tr {
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#weather tr:hover {
+  background-color: #e0f7fa;
+}
+
+#weather td:last-child {
+  font-weight: bold;
+}
+
+.even-row {
+  background-color: whitesmoke;
+}
+
+.even-row:hover {
+  background: linear-gradient(to right, #e0f7fa, #e0f7fa);
+}

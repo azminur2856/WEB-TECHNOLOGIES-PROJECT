@@ -1,0 +1,114 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f9;
+  color: #333;
+}
+
+h1 {
+  font-size: 32px;
+  color: #0056b3;
+  text-align: center;
+  margin: 20px 0;
+}
+
+#signinTable {
+  width: 40%;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background-color: whitesmoke;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+#signinTable td {
+  padding: 10px;
+  font-size: 16px;
+}
+
+#signinTable input[type="email"],
+#signinTable input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+#signinTable input[type="checkbox"] {
+  width: auto;
+  margin-right: 5px;
+}
+
+#signinTable input:hover {
+  border-color: #007bff;
+  outline: none;
+}
+
+#signinTable input:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+#signinTable input[type="submit"] {
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 12px;
+  border-radius: 5px;
+  font-size: 16px;
+  font-weight: bold;
+  width: 100%;
+}
+
+#signinTable input[type="submit"]:hover {
+  background-color: #004494;
+}
+
+#signinTable a {
+  color: #0056b3;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+#signinTable a:hover {
+  text-decoration: underline;
+}
+
+#signinTable td[style*="color: red"] {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+#signinTable td[style*="color: green"] {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+#jsError {
+  width: 25%;
+  height: 50%;
+  /* top: 175px; */
+  top: 200px;
+  left: 10px;
+  /* margin: 20px auto; */
+  /* background-color: #ffe6e6;
+  border: 1px solid #ff9999;
+  border-radius: 8px;
+  padding: 10px;
+  color: #cc0000; */
+  position: absolute;
+  /* display: none; */
+}
+
+/* #jsError ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-size: 14px;
+} */

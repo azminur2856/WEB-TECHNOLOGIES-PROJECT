@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h3 {
+  font-size: 24px;
+  color: #0056b3;
+  text-align: center;
+  margin: 20px 0;
+}
+
+#helpRequest {
+  width: 85%;
+  margin: 20px auto;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+#helpRequest td {
+  padding: 10px;
+  font-size: 14px;
+}
+
+#helpRequest label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+#helpRequest input[type="text"],
+#helpRequest input[type="email"],
+#helpRequest select,
+#helpRequest textarea {
+  width: 100%;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+#helpRequest select {
+  height: 40px;
+}
+
+#helpRequest textarea {
+  resize: none;
+}
+
+#errorTD {
+  font-size: 14px;
+  color: red;
+}
+
+#helpRequest td[style*="color: green"] {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.helpButton {
+  background-color: #0056b3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.helpButton:hover {
+  background-color: #004494;
+}
+
+.jsError ul {
+  list-style: none;
+}

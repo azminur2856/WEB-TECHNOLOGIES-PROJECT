@@ -1,0 +1,44 @@
+#viewDashboard {
+  width: 85%;
+  margin: 20px auto;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+#viewDashboard img {
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-bottom: 10px;
+}
+
+#viewDashboard h1 {
+  color: #0056b3;
+  font-size: 24px;
+}
+
+#viewDashboard h2 {
+  color: #333;
+  font-size: 20px;
+  margin: 10px 0;
+}
+
+#viewDashboard h3 {
+  color: #007bff;
+  font-size: 18px;
+  margin: 5px 0;
+}
+
+h3 {
+  color: #007bff;
+  font-size: 24px;
+  margin: 20px 0;
+}
+
+#errorTD {
+  font-size: 14px;
+  color: red;
+}

@@ -1,0 +1,29 @@
+#footer {
+  background-color: #0056b3;
+  color: white;
+  padding: 10px 0;
+  /* position: fixed;
+  bottom: 0;
+  width: 100%; */
+  border-top: 2px solid #004494;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+#footer #f {
+  font-size: 14px;
+  font-weight: bold;
+  margin: 5px 0;
+}
+
+#footer a {
+  text-decoration: none;
+  font-weight: bold;
+  color: white;
+  transition: color 0.3s;
+}
+
+#footer a:hover {
+  color: #e6e6e6;
+  text-decoration: underline;
+}

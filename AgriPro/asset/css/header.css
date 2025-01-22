@@ -1,0 +1,31 @@
+#header {
+  background-color: #0056b3;
+  color: white;
+  padding: 10px 0;
+  /* position: fixed;
+  top: 0;
+  width: 100%; */
+  border-bottom: 2px solid #004494;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#header a {
+  text-decoration: none;
+  font-size: 16px;
+  color: white;
+  font-weight: bold;
+  padding: 10px 20px;
+  display: inline-block;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+#header a:hover {
+  background-color: #004494;
+  color: #e6e6e6;
+  border-radius: 5px;
+}
+
+#header img {
+  vertical-align: middle;
+  border-radius: 50%;
+}
