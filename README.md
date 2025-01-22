@@ -25,6 +25,9 @@ Now you can explore this application. Thank You.
 
 
 
+# Short Description
+
+
 AgriPro
 
 AgriPro is a web application designed to help farmers and agricultural businesses. It provides tools and information to make farming easier, more efficient, and more profitable.
