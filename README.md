@@ -53,8 +53,6 @@ This is the first version (Version 1.0) of AgriPro, which sets the foundation fo
 
 # Group Members
 
-## Group Members
-
 ### Member 1
 
 - Name: AZMINUR RAHMAN
