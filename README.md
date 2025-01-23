@@ -83,4 +83,4 @@ This is the first version (Version 1.0) of AgriPro, which sets the foundation fo
 
 ### Institution
 
-- [AMERICAN-INTERNATIONAL-UNIVERSITY-BANGLADESH(AIUB)] (https://www.aiub.edu)
+- AMERICAN INTERNATIONAL UNIVERSITY-BANGLADESH (https://www.aiub.edu)
