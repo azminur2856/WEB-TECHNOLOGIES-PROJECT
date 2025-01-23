@@ -1,12 +1,14 @@
 # WEB-TECHNOLOGIES-PROJECT
 
 # Requirements
+
 PHP 7.4 or higher.
 Composer installed on your machine.
 An email account (Gmail recommended for this setup).
 PHPMailer library installed via Composer.
 
 # Instraction
+
 First create a database by using "db.sql" file.
 
 Open the sendOtpToEmail & sendFeedbackEmail function in the script.
@@ -23,10 +25,7 @@ Create an App Password for "Mail" and copy it into the Password field.
 
 Now you can explore this application. Thank You.
 
-
-
 # Short Description
-
 
 AgriPro
 
@@ -51,3 +50,39 @@ Researchers and policymakers interested in farming data.
 
 Version
 This is the first version (Version 1.0) of AgriPro, which sets the foundation for future improvements.
+
+# Group Members
+
+## Group Members
+
+### Member 1
+
+- Name: AZMINUR RAHMAN
+- Student ID: 22-46588-1
+- [GitHub](https://github.com/azminur2856)
+- Email: 22-46588-1@student.aiub.edu
+
+### Member 2
+
+- Name: SAIKOT KUNDU
+- Student ID: 22-46615-1
+- [GitHub](https://github.com/#)
+- Email: 22-46615-1@student.aiub.edu
+
+### Member 3
+
+- Name: MD. SAMIUL ISLAM SAIF
+- Student ID: 22-46563-1
+- [GitHub](https://github.com/Samiul-Saif)
+- Email: 22-46563-1@student.aiub.edu
+
+### Member 4
+
+- Name: AHSANUL HAQUE JOAR
+- Student ID: 22-47183-1
+- [GitHub](https://github.com/#)
+- Email: 22-47183-1@student.aiub.edu
+
+### Institution
+
+- American International University-Bangladesh
