@@ -78,7 +78,7 @@ This is the first version (Version 1.0) of AgriPro, which sets the foundation fo
 
 - Name: AHSANUL HAQUE JOAR
 - Student ID: 22-47183-1
-- [GitHub](https://github.com/#)
+- [GitHub](https://github.com/JOAR111)
 - Email: 22-47183-1@student.aiub.edu
 
 ### Institution
