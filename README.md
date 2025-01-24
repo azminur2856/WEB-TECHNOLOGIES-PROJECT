@@ -64,7 +64,7 @@ This is the first version (Version 1.0) of AgriPro, which sets the foundation fo
 
 - Name: SAIKOT KUNDU
 - Student ID: 22-46615-1
-- [GitHub](https://github.com/#)
+- [GitHub](https://github.com/CodePoint-46615)
 - Email: 22-46615-1@student.aiub.edu
 
 ### Member 3
