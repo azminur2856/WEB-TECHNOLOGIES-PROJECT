@@ -71,7 +71,7 @@ This is the first version (Version 1.0) of AgriPro, which sets the foundation fo
 
 - Name: MD. SAMIUL ISLAM SAIF
 - Student ID: 22-46563-1
-- [GitHub](https://github.com/Samiul-Saif)
+- [GitHub](https://github.com/#)
 - Email: 22-46563-1@student.aiub.edu
 
 ### Member 4
